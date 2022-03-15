@@ -1,2 +1,5 @@
 # LibraryOfBooks
-A Library Of Books as pdf and epub
+
+Welcome to my library!
+
+This is a collection of Books in pdf and epub format.
