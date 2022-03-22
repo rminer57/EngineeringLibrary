@@ -6,3 +6,5 @@ These books were obtained from a legitimate (not pirate) book download website t
 ```
 [minerran] [attt] [gmail] you know the rest.
 ```
+
+Add optimization, concurrency, datastructures and algorithms, c, code analysis, DSP and Radar, Eclipse, file formats, operating systems, image processing, statemachines, UML OOP, design for testability and software engineering
